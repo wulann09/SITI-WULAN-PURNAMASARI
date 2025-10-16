@@ -8,10 +8,12 @@ body {
    width: 400px;
    margin: 50px auto;/* 50px jarak atas/bawah,auto menengahkan kiri
    padding: 10px;
-   background-color:blue; 
+   background-color: Blue; 
    border-radius: 15px; /* Membuat sudut menjadi melengkung */
    box-shadow: 0 4px 8px rgba(0,0,0,0.1; /* Efek bayanagn */
-}
+   text-align: center; 
+} 
+
 
 .kartu-profil img {
    width: 150px;
