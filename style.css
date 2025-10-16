@@ -1,13 +1,13 @@
 body {
     background-color: #3333ff;
     font-family: Arial, sans-self; 
-    color: #191970; /Warna teks utama (Biru Gelap) */
+    color: #191970; 
 }
 
 .kartu-profil {
    width: 400px;
-   margin: 50px auto;/* 50px jarak atas/bawah,auto menengahkan kiri
-   padding: 10px;
+   margin: 50px auto;
+   padding: 20px;
    background-color: Blue; 
    border-radius: 15px; /* Membuat sudut menjadi melengkung */
    box-shadow: 0 4px 8px rgba(0,0,0,0.1; /* Efek bayanagn */
